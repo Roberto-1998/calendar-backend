@@ -1,4 +1,4 @@
-# Techlines - Complete React ECOMMERCE Web App
+# Calendar - React, Node, Express and MongoDB Web App
 
 
 
